@@ -1,4 +1,4 @@
-###########################################################
+pe ###########################################################
 ### Welcome to Beautiful Jekyll!
 ### This config file is meant for settings that affect your entire website. When you first
 ### set up your website you should go through all these settings and edit them, but after
@@ -10,11 +10,10 @@
 ############################
 
 # Name of website
-title: izzamax
+title: étampes market
 
 # Your name to show in the footer
-author: izzamax
-
+author: étampes market
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
